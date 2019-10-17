@@ -19,6 +19,7 @@ public class Test {
        Integer b =-128;
         System.out.println (a==b);
         System.out.println (a++);
+        System.out.println (b++);
 
     }
 }
