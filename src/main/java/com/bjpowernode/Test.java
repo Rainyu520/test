@@ -20,6 +20,7 @@ public class Test {
         System.out.println (a==b);
         System.out.println (a++);
         System.out.println (b++);
+        System.out.println (b++);
 
     }
 }
