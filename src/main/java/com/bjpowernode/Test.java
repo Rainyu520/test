@@ -10,6 +10,10 @@ public class Test {
         a.printA ();
         SubClassB b = new SubClassB ();
         b.printA ();
+
         System.out.println ("test测试");
+
+        System.out.println ("code2测试");
+
     }
 }
