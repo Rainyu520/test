@@ -11,6 +11,7 @@ public class Test {
         SubClassB b = new SubClassB ();
         b.printA ();
 
+        System.out.println ("xixi");
 
     }
 }
