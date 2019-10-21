@@ -11,6 +11,9 @@ public class Test {
         SubClassB b = new SubClassB ();
         b.printA ();
 
+
+        System.out.println ("哈哈");
+
         System.out.println ("test测试");
         System.out.println ("code3测试");
         System.out.println ("code2测试");
