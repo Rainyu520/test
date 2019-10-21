@@ -19,5 +19,7 @@ public class Test {
 
         int x= 6;
 
+        char z='a';
+
     }
 }
