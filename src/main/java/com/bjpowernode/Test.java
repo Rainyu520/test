@@ -16,7 +16,7 @@ public class Test {
         System.out.println ("code2测试");
         System.out.println ("test2测试");
         System.out.println ("test3测试");
-        String x= "3";
+        String y= "3";
 
         int x= 6;
 
