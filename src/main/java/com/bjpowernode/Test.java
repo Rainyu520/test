@@ -12,7 +12,7 @@ public class Test {
         b.printA ();
 
         System.out.println ("test测试");
-
+        System.out.println ("code3测试");
         System.out.println ("code2测试");
         System.out.println ("test2测试");
         System.out.println ("test3测试");
