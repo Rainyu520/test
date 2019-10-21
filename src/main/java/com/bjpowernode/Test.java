@@ -6,22 +6,16 @@ package com.bjpowernode;/**
  * @date ：${Date}
  */
 
-
-
 /**
  *Author：Rainyu
- *2019/10/15
+ *2019/10/21
  */
 
 public class Test {
     public static void main(String[] args) {
-       Integer a  =-128;
-       Integer b =-128;
-        System.out.println (a==b);
-        System.out.println (a++);
-        System.out.println (b++);
-        System.out.println (b++);
-        System.out.println (b++);
-
+        SubClassA a =new SubClassA ();
+        a.printA ();
+        SubClassB b = new SubClassB ();
+        b.printA ();
     }
 }
