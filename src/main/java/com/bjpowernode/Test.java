@@ -22,6 +22,8 @@ public class Test {
 
         char z='a';
 
+        System.out.println ("xx");
+
 
         boolean xx=true;
 
