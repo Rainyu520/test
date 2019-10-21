@@ -17,5 +17,7 @@ public class Test {
         System.out.println ("test2测试");
         System.out.println ("test3测试");
 
+        int x= 6;
+
     }
 }
