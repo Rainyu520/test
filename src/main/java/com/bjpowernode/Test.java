@@ -1,11 +1,4 @@
-package com.bjpowernode;/**
- * ClassName:Test
- * Package:com.bjpowernode
- * Description
- *
- * @date ：${Date}
- */
-
+package com.bjpowernode;
 /**
  *Author：Rainyu
  *2019/10/21
@@ -17,5 +10,6 @@ public class Test {
         a.printA ();
         SubClassB b = new SubClassB ();
         b.printA ();
+        System.out.println ("code2测试");
     }
 }
