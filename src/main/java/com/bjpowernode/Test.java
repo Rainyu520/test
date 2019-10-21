@@ -15,11 +15,13 @@ public class Test {
 
         System.out.println ("哈哈");
 
+
         String y= "3";
 
         int x= 6;
 
         char z='a';
+
 
     }
 }
