@@ -23,5 +23,8 @@ public class Test {
         char z='a';
 
 
+        boolean xx=true;
+
+
     }
 }
