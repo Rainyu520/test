@@ -6,27 +6,7 @@ package com.bjpowernode;
 
 public class Test {
     public static void main(String[] args) {
-        SubClassA a =new SubClassA ();
-        a.printA ();
-        SubClassB b = new SubClassB ();
-        b.printA ();
-
-        System.out.println ("xixi");
-
-        System.out.println ("哈哈");
-
-
-        String y= "3";
-
-        int x= 6;
-
-        char z='a';
-
-        System.out.println ("xx");
-
-
-        boolean xx=true;
-
+        System.out.println (2<<3);
 
     }
 }
